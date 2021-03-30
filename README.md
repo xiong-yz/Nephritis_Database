@@ -8,7 +8,7 @@ This database contains kidney biopsies at the Chang Gung Memorial Hospital (CGMH
         (3) who had failure of their pathological section, etc.,  
 finally totally 2849 kidney disease patients were remained and collected.  
 ![image](https://github.com/xiong-yz/Nephritis_Database/blob/main/flow.png)  
-Figqure 1. Flow of data cleaning  
+Figure 1. Flow of data cleaning  
 | ![kidney pathological section](https://github.com/xiong-yz/Nephritis_Database/blob/main/kidney1.jpg) |  ![kidney pathological section](https://github.com/xiong-yz/Nephritis_Database/blob/main/kidney2.jpg) |
 |---|---|  
 Figure 2. Examples of one kidney pathological section  
