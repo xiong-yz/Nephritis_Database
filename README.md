@@ -36,3 +36,5 @@ Year    | F   | M   | Avg_age | Std
 2017    | 134 | 104 | 41.91387|19.08539
 2018    | 124 | 97  | 44.27459|19.59873
 2019    | 75  | 44  | 46.18169|19.49708
+## Requesting Datasets
+To request a dataset, please contact the Center of Artificial Intelligence in Medicine at [cgmhailab@gmail.com](cgmhailab@gmail.com)
