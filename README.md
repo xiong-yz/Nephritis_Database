@@ -13,7 +13,7 @@ Figqure 1. Flow of data cleaning
 |---|---|  
 Figure 2. Examples of one kidney pathological section  
 
-##Patients’ demographic data Summary Table
+## Patients’ demographic data Summary Table
 Year    | F   | M   | Avg_age | Std
 :------:|:---:|:---:|:-------:|:------:
 2000    | 36  | 44  | 40.19813|15.92709
