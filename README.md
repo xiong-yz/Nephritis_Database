@@ -7,3 +7,4 @@ This database contains kidney biopsies at the Chang Gung Memorial Hospital (CGMH
         (2) who received kidney transplantation;    
         (3) who had failure of their pathological section, etc.,  
 finally totally 2849 kidney disease patients were remained and collected.
+![image]https://github.com/xiong-yz/Nephritis_Database/blob/main/flow.png
